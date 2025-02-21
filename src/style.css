@@ -110,3 +110,9 @@
 .ultimo-botao{
     text-align: center;
 }
+.footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    font-size: 15px;
+}
