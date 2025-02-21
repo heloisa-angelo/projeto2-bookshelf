@@ -1,58 +1,60 @@
-.primeiro-titulo{
+.primeiro-titulo {
     text-align: center;
 }
 
-.primeiro-paragrafo{
-    text-align: center;
-}
- 
-.segundo-titulo{
+.primeiro-paragrafo {
     text-align: center;
 }
 
-.segundo-paragrafo{
+.segundo-titulo {
     text-align: center;
 }
 
-.terceiro-titulo{
+.segundo-paragrafo {
     text-align: center;
 }
 
-.terceiro-paragrafo{
+.terceiro-titulo {
     text-align: center;
 }
 
-.quarto-titulo{
+.terceiro-paragrafo {
     text-align: center;
 }
 
-.quarto-paragrafo{
+.quarto-titulo {
     text-align: center;
 }
 
-.primeiro-botao{
+.quarto-paragrafo {
     text-align: center;
 }
 
-.imagemdiv{
+.primeiro-botao {
     text-align: center;
 }
-.imagem{
+
+.imagemdiv {
+    text-align: center;
+}
+
+.imagem {
     width: 1000px;
 }
 
-.inscreva-se{
+.inscreva-se {
     border: none;
     border-radius: 40px;
     color: white;
     background-color: black;
-    padding: 15px 32px ;
+    padding: 15px 32px;
 }
 
-.outros-botoes{
+.outros-botoes {
     text-align: center;
 }
-.button1{
+
+.button1 {
     border: none;
     border-radius: 40px;
     color: white;
@@ -60,14 +62,7 @@
     padding: 15px 32px;
 }
 
-.button2{
-    border: none;
-    border-radius: 40px;
-    color: white;
-    background-color: deepskyblue;
-    padding: 15px 32px;
-}
-.button3{
+.button2 {
     border: none;
     border-radius: 40px;
     color: white;
@@ -75,7 +70,7 @@
     padding: 15px 32px;
 }
 
-.button4{
+.button3 {
     border: none;
     border-radius: 40px;
     color: white;
@@ -83,15 +78,23 @@
     padding: 15px 32px;
 }
 
-.button5{
-     border: none;
+.button4 {
+    border: none;
     border-radius: 40px;
     color: white;
     background-color: deepskyblue;
     padding: 15px 32px;
 }
 
-.button6{
+.button5 {
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: deepskyblue;
+    padding: 15px 32px;
+}
+
+.button6 {
     border: none;
     border-radius: 40px;
     color: white;
@@ -99,7 +102,7 @@
     padding: 15px 32px;
 }
 
-.button7{
+.button7 {
     border: none;
     border-radius: 40px;
     color: white;
@@ -107,9 +110,10 @@
     padding: 15px 32px;
 }
 
-.ultimo-botao{
+.ultimo-botao {
     text-align: center;
 }
+
 .footer {
     text-align: center;
     color: #ffffff;
